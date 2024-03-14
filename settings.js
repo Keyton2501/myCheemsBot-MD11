@@ -1,10 +1,10 @@
-//base by DGXeon
+//base by 𝐻𝒪𝑅𝒩𝒮 𝐵𝒪𝒯
 //re-upload? recode? copy code? give credit ya :)
 //YouTube: @DGXeon
 //Instagram: unicorn_xeon13
 //Telegram: t.me/xeonbotinc
 //GitHub: @DGXeon
-//WhatsApp: +916909137213
+//WhatsApp: +242055435223
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@DGXeon
 
 const fs = require('fs')
@@ -19,15 +19,15 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
-global.ownernumber = '916909137213' //ur owner number
-global.ownername = '🦄드림 가이 Xeon' //ur owner name
+global.botname = 'myCheems Bot MD V11' //ur bot name
+global.ownernumber = '242055435223' //ur owner number
+global.ownername = '𝐻𝒪𝑅𝒩𝒮 𝐵𝒪𝒯' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By"
+global.packname = "Sticker By 𝐻𝒪𝑅𝒩𝒮 𝐵𝒪𝒯"
 global.author = "🦄드림 가이 Xeon\n\n+916909137213"
 global.creator = "916909137213@s.whatsapp.net"
 global.xprefix = '.'
